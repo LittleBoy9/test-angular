@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://test-angular-sounak.netlify.app/sitemap.xml
