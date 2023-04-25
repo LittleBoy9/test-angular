@@ -27,7 +27,6 @@ import { FooterComponent } from './common/footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
-  
     Blog1Component,
     Blog2Component,
     Blog3Component,

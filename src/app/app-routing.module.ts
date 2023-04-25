@@ -21,6 +21,7 @@ import { Blog15Component } from './blog15/blog15.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
+  // {loadChildren: () => import('./about/').then(m => m.ModuleaModule) },
   { path: 'about', component: AboutComponent },
   { path: 'blog1', component: Blog1Component },
   { path: 'blog2', component: Blog2Component },
